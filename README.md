@@ -1,4 +1,3 @@
-# Supply-Chain-SQL-Analysis
 # Supply Chain SQL Analysis
 **Tool:** SQLite via DB Browser  
 **Domain:** Consumer Goods — Cosmetics, Haircare & Skincare  
